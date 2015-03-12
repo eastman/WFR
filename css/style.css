@@ -233,35 +233,35 @@ body{
 		text-align: justify; 
 }
 .about-us-column p.ourvision1,.services-row-column p.ourvision1 {
-		background:url(../images/ov1.png) no-repeat left;
+		background:url(../../images/newWFRimages/ov1.png) no-repeat left;
 		padding:10px 5px 10px 43px;
 		font-weight: 400;
 		color: rgba(255, 255, 255, 1);
 		text-align: justify; 
 }
 .about-us-column p.ourvision2, .services-row-column p.ourvision2{
-		background:url(../images/ov2.png) no-repeat left;
+		background:url(../../images/newWFRimages/ov2.png) no-repeat left;
 		padding:10px 5px 10px 43px; 
 		font-weight: 400;
 		color: rgba(255, 255, 255, 1);
 		text-align: justify; 
 }
 .about-us-column p.ourvision3, .services-row-column p.ourvision3{
-		background:url(../images/ov3.png) no-repeat left;
+		background:url(../../images/newWFRimages/ov3.png) no-repeat left;
 		padding:10px 5px 10px 43px; 
 		font-weight: 400;
 		color: rgba(255, 255, 255, 1);
 		text-align: justify; 
 }
 .about-us-column p.ourvision4, .services-row-column p.ourvision4{
-		background:url(../images/ov4.png) no-repeat left;
+		background:url(../../images/newWFRimages/ov4.png) no-repeat left;
 		padding:10px 5px 10px 43px; 
 		font-weight: 400;
 		color: rgba(255, 255, 255, 1);
 		text-align: justify; 
 }
 .about-us-column p.ourvision5, .services-row-column p.ourvision5{
-		background:url(../images/ov5.png) no-repeat left;
+		background:url(../../images/newWFRimages/ov5.png) no-repeat left;
 		padding:10px 5px 10px 43px; 
 		font-weight: 400;
 		color: rgba(255, 255, 255, 1);
@@ -287,7 +287,7 @@ body{
 /*-- Portfolio endss here --*/
 /*-- Features starts here --*/
 .services-row-column p.ourvision{
-		background:url(../images/ov.png) no-repeat left;
+		background:url(../../images/newWFRimages/ov.png) no-repeat left;
 		padding:10px 5px 10px 43px; 
 }
 .features{
@@ -388,15 +388,15 @@ small{
 		cursor: pointer;
 }
  .contact-column p.add{
- 		background:url(../images/location.png) no-repeat left;
+ 		background:url(../../images/newWFRimages/location.png) no-repeat left;
  		padding: 20px 0px 20px 40px;
  }
  .contact-column p.ph{
- 		background:url(../images/telephone.png) no-repeat left;
+ 		background:url(../../images/newWFRimages/telephone.png) no-repeat left;
  		padding: 20px 0px 20px 40px;
  }
  .contact-column p.mai{
- 		background:url(../images/email.png) no-repeat left;
+ 		background:url(../../images/newWFRimages/email.png) no-repeat left;
  		padding: 13px 0px 13px 40px;
  }
  .contact-column p.add a{
@@ -424,43 +424,43 @@ small{
 .content-row-column-in i.icon1{
 			width:72px;
 			height:72px;
-			background:url(../images/movie.png) no-repeat 0px 0px;
+			background:url(../../images/newWFRimages/movie.png) no-repeat 0px 0px;
 			display: block;
 }
 .content-row-column-in i.icon2{
 			width:72px;
 			height:72px;
-			background:url(../images/listen.png) no-repeat 0px 0px;
+			background:url(../../images/newWFRimages/listen.png) no-repeat 0px 0px;
 			display: block;
 }
 .content-row-column-in i.icon3{
 			width:72px;
 			height:72px;
-			background:url(../images/message.png) no-repeat 0px 0px;
+			background:url(../../images/newWFRimages/message.png) no-repeat 0px 0px;
 			display: block;
 }
 .content-row-column-in i.icon4{
 			width:98px;
 			height:72px;
-			background:url(../images/faq.png) no-repeat 0px 0px;
+			background:url(../../images/newWFRimages/faq.png) no-repeat 0px 0px;
 			display: block;
 }
 .content-row-column-in i.icon5{
 			width:72px;
 			height:72px;
-			background:url(../images/ambo.png) no-repeat 0px 0px;
+			background:url(../../images/newWFRimages/ambo.png) no-repeat 0px 0px;
 			display: block;
 }
 .content-row-column-in i.icon6{
 			width:72px;
 			height:72px;
-			background:url(../images/fire.png) no-repeat 0px 0px;
+			background:url(../../images/newWFRimages/fire.png) no-repeat 0px 0px;
 			display: block;
 }
 .content-row-column-in i.icon7{
 			width:72px;
 			height:72px;
-			background:url(../images/hazmat.png) no-repeat 0px 0px;
+			background:url(../../images/newWFRimages/hazmat.png) no-repeat 0px 0px;
 			display: block;
 }
 .content-row-column{
@@ -531,7 +531,7 @@ small{
 			text-align:center;
 }
 .content-row-class2{
-		background:url(../images/alert.png) no-repeat 0px 0px;
+		background:url(../../images/newWFRimages/alert.png) no-repeat 0px 0px;
 		background-size:cover;
 		margin-top:20px;
 		padding:30px 0px;
@@ -580,7 +580,7 @@ small{
 			margin-top: 20PX;
 }
 .class3-row-column a{
-			background:url(../images/sy1.png) no-repeat left;
+			background:url(../../images/newWFRimages/sy1.png) no-repeat left;
 			text-decoration:none;
 			text-transform: uppercase;
 			color:#0d0536;
@@ -588,7 +588,7 @@ small{
 			padding:0px 22px;
 }
 .class3-row-column a:hover{
-			background:url(../images/sy1-hover.png) no-repeat left;
+			background:url(../../images/newWFRimages/sy1-hover.png) no-repeat left;
 			color:#000;
 			-webkit-transition: all 0.3s ease;
 			-moz-transition: all 0.3s ease;
@@ -640,12 +640,12 @@ small{
 			transition: all 0.3s ease;
 }
 .testimonals-details{
-			background:url(../images/test-back.png) no-repeat 0px 0px;
+			background:url(../../images/newWFRimages/test-back.png) no-repeat 0px 0px;
 			background-size:cover;
 			padding:20px 4px;
 }
 .testimonals-details p.test{
-		   background: url(../images/person.png) no-repeat 0px 0px;
+		   background: url(../../images/newWFRimages/person.png) no-repeat 0px 0px;
 			padding: 10px 0px 0px 0px;
 			width: 45px;
 			height: 38px;
@@ -690,13 +690,14 @@ small{
 .social-media a i.fa1{
 			width:32px;
 			height:32px;
-			background:url(../images/fb.png)#717171 no-repeat 4px 3px;
+			background:url(../../images/newWFRimages/fb.png)#717171 no-repeat 4px 3px;
 			display: block;
 			border-radius: 18px;
 			padding: 15px;
 }
 .social-media a i.fa1:hover{
-			background:url(../images/fb.png)#fff no-repeat 4px 3px;
+			/* background:url(../images/fb.png)#fff no-repeat 4px 3px; */
+			background:url(../../images/newWFRimages/fb.png)#fff no-repeat 4px 3px;
 			-webkit-transition: all 0.3s ease;
 			-moz-transition: all 0.3s ease;
 			-o-transition: all 0.3s ease;
@@ -705,7 +706,7 @@ small{
 .social-media a i.fa2{
 			width:32px;
 			height:32px;
-			background:url(../images/twitter.png)#717171 no-repeat 5px 4px;
+			background:url(../../images/newWFRimages/twitter.png)#717171 no-repeat 5px 4px;
 			display: block;
 			border-radius: 18px;
 			-webkit-border-radius: 18px;
@@ -714,7 +715,7 @@ small{
 			padding: 15px;
 }
 .social-media a i.fa2:hover{
-			background:url(../images/twitter.png)#fff no-repeat 5px 4px;
+			background:url(../../images/newWFRimages/twitter.png)#fff no-repeat 5px 4px;
 			-webkit-transition: all 0.3s ease;
 			-moz-transition: all 0.3s ease;
 			-o-transition: all 0.3s ease;
@@ -723,7 +724,7 @@ small{
 .social-media a i.fa3{
 			width:32px;
 			height:32px;
-			background:url(../images/location.png)#717171 no-repeat 3px 4px;
+			background:url(../../images/newWFRimages/location.png)#717171 no-repeat 3px 4px;
 			display: block;
 			border-radius: 18px;
 			-webkit-border-radius: 18px;
@@ -732,7 +733,7 @@ small{
 			padding: 15px;
 }
 .social-media a i.fa3:hover{
-			background:url(../images/location.png)#fff no-repeat 3px 4px;
+			background:url(../../images/newWFRimages/location.png)#fff no-repeat 3px 4px;
 			-webkit-transition: all 0.3s ease;
 			-moz-transition: all 0.3s ease;
 			-o-transition: all 0.3s ease;
@@ -741,7 +742,7 @@ small{
 .social-media a i.fa4{
 			width:32px;
 			height:32px;
-			background:url(../images/telephone.png)#717171 no-repeat 4px 4px;
+			background:url(../../images/newWFRimages/telephone.png)#717171 no-repeat 4px 4px;
 			display: block;
 			border-radius: 18px;
 			-webkit-border-radius: 18px;
@@ -750,7 +751,7 @@ small{
 			padding: 15px;
 }
 .social-media a i.fa4:hover{
-			background:url(../images/telephone.png)#fff no-repeat 4px 4px;
+			background:url(../../images/newWFRimages/telephone.png)#fff no-repeat 4px 4px;
 			-webkit-transition: all 0.3s ease;
 			-moz-transition: all 0.3s ease;
 			-o-transition: all 0.3s ease;
@@ -759,7 +760,7 @@ small{
 .social-media a i.fa5{
 			width:32px;
 			height:32px;
-			background:url(../images/email.png)#717171 no-repeat 4px 6px;
+			background:url(../../images/newWFRimages/email.png)#717171 no-repeat 4px 6px;
 			display: block;
 			border-radius: 18px;
 			-webkit-border-radius: 18px;
@@ -768,7 +769,7 @@ small{
 			padding: 15px;
 }
 .social-media a i.fa5:hover{
-			background:url(../images/email.png)#fff no-repeat 4px 6px;
+			background:url(../../images/newWFRimages/email.png)#fff no-repeat 4px 6px;
 			-webkit-transition: all 0.3s ease;
 			-moz-transition: all 0.3s ease;
 			-o-transition: all 0.3s ease;
@@ -778,7 +779,7 @@ small{
 		padding:20px;
 }
 .email-info{
-		background: url(../images/mail.png)#464646 no-repeat 10px 8px;
+		background: url(../../images/newWFRimages/mail.png)#464646 no-repeat 10px 8px;
 		padding:13px 40px;
 		border-radius: 3px;
 		-webkit-border-radius: 3px;
